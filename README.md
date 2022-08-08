@@ -30,7 +30,6 @@ Once the time for the assessment is up (and not before), push your code to your 
 * Your Name
 * How far you got through the user stories
   * Please include any user stories you partially complete, for example "completed user stories 1 and 2, really close to completing 3"
-* A reflection on how you felt you did with this challenge
 
 ## Requirements
 
